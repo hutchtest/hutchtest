@@ -1,1 +1,3 @@
 # hutchtest
+
+terminal status check
