@@ -1,3 +1,3 @@
 # hutchtest
 
-code channel check
+code channel follow-up check
