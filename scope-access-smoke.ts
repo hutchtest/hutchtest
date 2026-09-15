@@ -3,4 +3,4 @@ export function scopeSmokeTotal(values: readonly number[]): number {
   return values.reduce((sum, value) => sum + value, 0)
 }
 
-export const scopeSmokeVersion = "b3928f15-final";
+export const scopeSmokeVersion = "b3928f15-denied";
