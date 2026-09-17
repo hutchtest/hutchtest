@@ -1,0 +1,7 @@
+language: en-US
+knowledge_base:
+  linear:
+    usage: enabled
+reviews:
+  auto_review:
+    enabled: true
